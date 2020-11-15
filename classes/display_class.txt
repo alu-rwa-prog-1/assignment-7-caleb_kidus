@@ -1,0 +1,45 @@
+Authors:
+		Caleb Mugisha
+		Kidus Mengitsu
+
+
+CLASSES IN OUR SNAKE_GAME AND THEIR RESPECTIVE PSEUDO-CODE
+
+Class: Display
+
+background-color:black
+font-size:23
+display-lenght:window’s length
+display-width:window’s width
+button-color = blue
+button-width = 7
+button-length = 3
+
+
+function button(button-color,button-width, button-length, button-length, button-x  
+			button-y , button-msg){
+
+			return button
+}
+
+function welcome_display(background-color, font-size, display- 						lenght, display-width,msg) {
+
+	
+}
+
+function pause_ display(background-color, font-size, display- 						lenght, display-width,msg) {
+
+	
+}
+
+function game_over display(background-color, font-size, display- 						lenght, display-width,msg) {
+
+	
+}
+
+
+function menu((background-color, font-size, display- 						lenght, display-width,msg, buttons) {
+
+	
+}
+	

@@ -1,0 +1,16 @@
+Authors:
+		Caleb Mugisha
+		Kidus Mengitsu
+
+
+CLASSES IN OUR SNAKE_GAME AND THEIR RESPECTIVE PSEUDO-CODE
+
+Class : playerinfo
+
+
+function player_records(player_name, player_score) {
+
+	// create sql table with columns player_name and player_score
+	sql = insert into table(player_name, player_score)
+	
+	}
