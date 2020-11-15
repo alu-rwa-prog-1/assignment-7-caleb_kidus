@@ -1,0 +1,27 @@
+﻿Authors: Caleb Mugisha
+         Kidus Mengitsu
+
+
+
+Project:  2D Snake Game
+
+
+1. INTRODUCTION
+
+
+This is an attempt of a generic snake game where the user’s goal is to collect as much points as possible.  External libraries like pygame and tkinter will be used in this program.
+
+2. GAME ATTRIBUTES
+
+In this game we will use the four direction key to control the movement of the game, Q is used for quiting the game and space bar key for pausing the game.
+
+3. INTERFACE
+
+The game has an interface where a player records his name and where the player’s score is stored, until one game session is terminated the player can be able to see different scores that he had through out the game session, therefore find a highest score.
+
+4.CONCLUSION
+
+This game is meant to provide a throwback to our favourite childhood game which left us with scars of excitement and also frustration, we hope you enjoy it.
+
+
+
