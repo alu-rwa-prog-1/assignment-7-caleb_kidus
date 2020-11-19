@@ -1,0 +1,23 @@
+Authors:
+		Caleb Mugisha
+		Kidus Mengitsu
+
+
+CLASSES IN OUR SNAKE_GAME AND THEIR RESPECTIVE PSEUDO-CODE
+
+Class: Food
+
+
+
+
+function Move(initial_food_position, food_color) {
+
+	the snake_food moves to and from  a random position  in the grid as it's consumed by the snake
+
+	end
+}
+
+
+
+
+

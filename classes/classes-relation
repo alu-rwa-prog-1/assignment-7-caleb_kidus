@@ -1,4 +1,4 @@
-I need another file with all the classes that your program is going to have and the relationship between those classes.
+
 
 Authors:
 		Caleb Mugisha
@@ -21,7 +21,7 @@ Function:
 
 
 
-Class: Food 
+Class: Food(Snake)
 - This class inherts from the Snake class, the position and color Variables
 
 Variables:
@@ -43,7 +43,7 @@ Function
 	1. score_increment
 
 
-Class : playerinfo 
+Class : player
 - This class is connected to a sql database and stores credentials of the players during a session.
 
 variables:
@@ -61,3 +61,4 @@ Functions:
 	1. welcome_display
 	2. pause_ display
 	3. game_over display
+	4. menu_display

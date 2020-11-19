@@ -1,0 +1,54 @@
+Authors:
+		Caleb Mugisha
+		Kidus Mengitsu
+
+
+CLASSES IN OUR SNAKE_GAME AND THEIR RESPECTIVE PSEUDO-CODE
+
+Class: Display
+
+
+
+
+function button(button-color,button-width, button-length, button-length, button-x  
+			button-y , button-msg){
+
+			return button with the exact specifications	
+			end		
+
+}
+function screen_display(background-color, font-size, display-lenght, display-width,msg) {
+		displays the msg
+		end
+	
+}
+
+function welcome_display(screen_display,msg= 'welcome to the game') {
+	display welcome to the game
+	end
+
+	
+}
+
+function pause_display(screen_display,msg= 'the game has been paused') {
+	display the game has been paused
+	end
+
+	
+}
+
+function game-over_display(screen_display,msg= 'Game over, want to play again') {
+	display Game over, want to play again
+	end
+
+	
+}
+
+function menu(screen_display, button) {
+	displays the initial menu options that the player has
+	
+	ends
+
+	
+}
+	

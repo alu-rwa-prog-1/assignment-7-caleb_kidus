@@ -1,0 +1,44 @@
+﻿Authors:
+		Caleb Mugisha
+		Kidus Mengitsu
+
+
+CLASSES IN OUR SNAKE_GAME AND THEIR RESPECTIVE PSEUDO-CODE
+
+Class: Snake
+
+
+
+
+function move(snake_position, direction_key='any direction key') {
+
+	if direction_key  in (up, left, right , down)
+		
+	then the snake moves appropriately in respect to the axis in question
+
+	else if an other key is pressed do nothing
+	
+	end
+}
+
+function grow(initial_snake_length) {
+
+	increase snake lenght as it eats the food(increment by 1)
+
+	end
+
+
+}
+
+function Eat(food_position, score) {
+
+	update livetime the score_board as the snake eats the food
+	end
+}
+
+
+
+
+
+
+

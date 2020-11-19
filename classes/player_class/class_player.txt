@@ -5,12 +5,15 @@ Authors:
 
 CLASSES IN OUR SNAKE_GAME AND THEIR RESPECTIVE PSEUDO-CODE
 
-Class : playerinfo
+Class : player
 
 
 function player_records(player_name, player_score) {
 
-	// create sql table with columns player_name and player_score
-	sql = insert into table(player_name, player_score)
+	this class collects the player's information 
+
+	post it in a sql database.
 	
+	end
 	}
+	
