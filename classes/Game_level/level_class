@@ -1,0 +1,30 @@
+Authors:
+		Caleb Mugisha
+		Kidus Mengitsu
+
+
+CLASSES IN OUR SNAKE_GAME AND THEIR RESPECTIVE PSEUDO-CODE
+
+Class: snake complexity level inherts from display and snake{
+
+
+
+function easy(snakespeed, wallmode) {
+
+	the snakespeed is a constant=9 what changes is the wall mode either it is on or off
+	end
+}
+
+function medium(snakespeed, wallmode) {
+
+	the snakespeed is a constant=11 what changes is the wall mode either it is on or off
+	end
+}
+
+
+function difficult(snakespeed, wallmode) {
+
+	the snakespeed is a constant=12 what changes is the wall mode either it is on or off
+	end
+}
+}

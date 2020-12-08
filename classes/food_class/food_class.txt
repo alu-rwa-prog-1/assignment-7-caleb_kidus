@@ -5,7 +5,7 @@ Authors:
 
 CLASSES IN OUR SNAKE_GAME AND THEIR RESPECTIVE PSEUDO-CODE
 
-Class: Food
+Class: Food inherits from snake the color
 
 
 
